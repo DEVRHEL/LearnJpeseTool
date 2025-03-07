@@ -1,0 +1,54 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+たべます|tabemasu|ăn|食べます
+のみます|nomimasu|uống|飲みます
+すいます|suimasu|hút [thuốc lá]|吸います
+みます|mimasu|xem, nhìn, trông|見ます
+ききます|kikimasu|nghe|聞きます
+よみます|yomimasu|đọc|読みます
+かきます|kakimasu|viết, vẽ|書きます
+かいます|kaimasu|mua|買います
+とります|torimasu|chụp [ảnh]|撮ります
+します|shimasu|làm|
+あいます|aimasu|gặp [bạn]|会います
+ごはん|gohan|cơm, bữa ăn|
+あさごはん|asagohan|cơm sáng|朝ごはん
+ひるごはん|hirugohan|cơm trưa|昼ごはん
+ばんごはん|bangohan|cơm tối|晩ごはん
+パン|pan|bánh mì|
+たまご|tamago|trứng|卵
+にく|niku|thịt|肉
+さかな|sakana|cá|魚
+やさい|yasai|rau|野菜
+くだもの|kudamono|hoa quả, trái cây|果物
+みず|mizu|nước|水
+おちゃ|ocha|trà (nói chung)|お茶
+こうちゃ|koucha|trà đen|紅茶
+ぎゅうにゅう|gyuunyuu|sữa bò (ミルク)|牛乳
+ジュース|juusu|nước hoa quả|
+ビール|biiru|bia|
+[お]さけ|[o]sake|rượu, rượu sake|[お]酒
+ビデオ|bideo|video, băng video, đầu video|
+えいが|eiga|phim, điện ảnh|映画
+ＣＤ|CD|đĩa CD|
+てがみ|tegami|thư|手紙
+レポート|repooto|báo cáo|
+しゃしん|shashin|ảnh|写真
+みせ|mise|cửa hàng, tiệm|店
+レストラン|resutoran|nhà hàng|
+にわ|niwa|vườn|庭
+しゅくだい|shukudai|bài tập về nhà (～をします: làm bài tập)|宿題
+テニス|tenisu|quần vợt (～をします: đánh quần vợt)|
+サッカー|sakkaa|bóng đá (～をします: chơi bóng đá)|
+[お]はなみ|[o]hanami|việc ngắm hoa anh đào (～をします: ngắm hoa anh đào)|[お]花見
+なに|nani|cái gì, gì|何
+いっしょに|issho ni|cùng, cùng nhau|
+ちょっと|chotto|một chút|
+いつも|itsumo|luôn luôn, lúc nào cũng|
+ときどき|tokidoki|thỉnh thoảng|時々
+それから|sorekara|sau đó, tiếp theo|
+ええ|ee|vâng, được (cách nói thân mật của 「はい」)|
+いいですね。|ii desu ne.|Được đấy nhỉ./ hay quá.|
+わかりました。|wakarimashita.|Tôi hiểu rồi/ vâng ạ.|
+なんですか。|nan desu ka.|Có gì đấy ạ?/ cái gì vậy?/ vâng có tôi. (câu trả lời khi ai đó gọi tên mình)|何ですか。
+じゃ、また[あした]。|ja, mata [ashita].|Hẹn gặp lại [ngày mai].|
+メキシコ|mekishiko|Mexico|

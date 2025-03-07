@@ -1,0 +1,28 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+たちます|tachimasu|đứng|立ちます
+すわります|suwarimasu|ngồi|座ります
+つかいます|tsukaimasu|dùng, sử dụng|使います
+おきます|okimasu|đặt, để|置きます
+つくります|tsukurimasu|làm, chế tạo, sản xuất|作ります，造ります
+うります|urimasu|bán|売ります
+しります|shirimasu|biết|知ります
+すみます|sumimasu|sống, ở|住みます
+けんきゅうします|kenkyuu shimasu|nghiên cứu|研究します
+しっています|shitte imasu|biết|知っています
+すんでいます|sunde imasu|sống|住んでいます
+しりょう|shiryou|tài liệu, tư liệu|資料
+カタログ|katarogu|ca-ta-lô|
+じこくひょう|jikokuhyou|bảng giờ tàu chạy|時刻表
+ふく|fuku|quần áo|服
+せいひん|seihin|sản phẩm|製品
+ソフト|sofuto|phần mềm|
+せんもん|senmon|chuyên môn|専門
+はいしゃ|haisha|nha sĩ|歯医者
+とこや|tokoya|hiệu cắt tóc|床屋
+プレイガイド|pureigaido|quầy bán vé (trong nhà hát)|
+どくしん|dokushin|độc thân|独身
+とくに|tokuni|đặc biệt|特に
+おもいだします|omoidasu|nhớ lại, hồi tưởng|思い出します
+ごかぞく|gokazoku|gia đình (dùng cho người khác)|ご家族
+いらっしゃいます|irasshaimasu|thể kính trọng của 「います」|
+こうこう|koukou|trường trung học phổ thông|高校

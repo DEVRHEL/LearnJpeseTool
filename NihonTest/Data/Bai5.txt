@@ -1,0 +1,56 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+いきます|ikimasu|đi|行きます
+きます|kimasu|đến|来ます
+かえります|kaerimasu|về|帰ります
+がっこう|gakkou|trường học|学校
+スーパー|suupaa|siêu thị|
+えき|eki|ga, nhà ga|駅
+ひこうき|hikouki|máy bay|飛行機
+ふね|fune|thuyền, tàu thủy|船
+でんしゃ|densha|tàu điện|電車
+ちかてつ|chikatetsu|tàu điện ngầm|地下鉄
+しんかんせん|shinkansen|tàu Shinkansen (tàu điện siêu tốc của Nhật)|新幹線
+バス|basu|xe buýt|
+タクシー|takushii|tắc-xi|
+じてんしゃ|jitensha|xe đạp|自転車
+あるいて|aruite|đi bộ|歩いて
+ひと|hito|người|人
+ともだち|tomodachi|bạn, bạn bè|友達
+かれ|kare|anh ấy, bạn trai|彼
+かのじょ|kanojo|chị ấy, bạn gái|彼女
+かぞく|kazoku|gia đình|家族
+ひとりで|hitoride|một mình|一人で
+せんしゅう|senshuu|tuần trước|先週
+こんしゅう|konshuu|tuần này|今週
+らいしゅう|raishuu|tuần sau|来週
+せんげつ|sengetsu|tháng trước|先月
+こんげつ|kongetsu|tháng này|今月
+らいげつ|raigetsu|tháng sau|来月
+きょねん|kyonen|năm ngoái|去年
+ことし|kotoshi|năm nay|
+らいねん|rainen|năm sau|来年
+―がつ|―gatsu|tháng -|―月
+なんがつ|nangatsu|tháng mấy|何月
+ついたち|tsuitachi|ngày mồng 1|１日
+ふつか|futsuka|ngày mồng 2, 2 ngày|２日
+みっか|mikka|ngày mồng 3, 3 ngày|３日
+よっか|yokka|ngày mồng 4, 4 ngày|４日
+いつか|itsuka|ngày mồng 5, 5 ngày|５日
+むいか|muika|ngày mồng 6, 6 ngày|６日
+なのか|nanoka|ngày mồng 7, 7 ngày|７日
+ようか|youka|ngày mồng 8, 8 ngày|８日
+ここのか|kokonoka|ngày mồng 9, 9 ngày|９日
+とおか|tooka|ngày mồng 10, 10 ngày|１０日
+じゅうよっか|juuyokka|ngày 14, 14 ngày|１４日
+はつか|hatsuka|ngày 20, 20 ngày|２０日
+にじゅうよっか|nijuuyokka|ngày 24, 24 ngày|２４日
+―にち|―nichi|ngày -, - ngày|―日
+なんにち|nannichi|ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày|何日
+いつ|itsu|bao giờ, khi nào|
+たんじょうび|tanjoubi|sinh nhật|誕生日
+ふつう|futsuu|tàu thường (dừng cả ở các ga lẻ)|普通
+きゅうこう|kyuukou|tàu tốc hành|急行
+とっきゅう|tokkyuu|tàu tốc hành đặc biệt|特急
+つぎの|tsugino|tiếp theo|次の
+どういたしまして。|douitashimashite.|Không có gì.|
+ーばんせん|ーbansen|sân ga số ー|ー番線

@@ -1,0 +1,39 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+おぼえます|oboemasu|nhớ|覚えます
+わすれます|wasuremasu|quên|忘れます
+なくします|nakushimasu|mất, đánh mất|
+だします|dashimasu|nộp [bản/bài báo cáo]|出します
+はらいます|haraimasu|trả tiền|払います
+かえします|kaeshimasu|trả lại|返します
+でかけます|dekakemasu|ra ngoài|出かけます
+ぬぎます|nugimasu|cởi (quần áo, giày)|脱ぎます
+もっていきます|motte ikimasu|mang đi, mang theo|持って行きます
+もってきます|motte kimasu|mang đến|持って来ます
+しんぱいします|shinpai shimasu|lo lắng|心配します
+ざんぎょうします|zangyou shimasu|làm thêm, làm quá giờ|残業します
+しゅっちょうします|shucchou shimasu|đi công tác|出張します
+のみます|nomimasu|uống [thuốc]|飲みます
+はいります|hairimasu|tắm bồn [vào bồn tắm]|入ります
+たいせつ[な]|taisetsu[na]|quan trọng, quý giá|大切[な]
+だいじょうぶ[な]|daijoubu[na]|không sao, không có vấn đề gì|大丈夫[な]
+あぶない|abunai|nguy hiểm|危ない
+もんだい|mondai|vấn đề|問題
+こたえ|kotae|câu trả lời|答え
+きんえん|kin'en|cấm hút thuốc|禁煙
+[けんこう]ほけんしょう|[kenkou] hokenshou|thẻ bảo hiểm [y tế]|[健康]保険証
+かぜ|kaze|cảm, cúm|
+ねつ|netsu|sốt|熱
+びょうき|byouki|ốm, bệnh|病気
+くすり|kusuri|thuốc|薬
+[お]ふろ|[o]furo|bồn tắm|
+うわぎ|uwagi|áo khoác|上着
+したぎ|shitagi|quần áo lót|下着
+せんせい|sensei|bác sĩ (cách gọi bác sĩ)|先生
+２，３にち|ni, san nichi|vài ngày|２，３日
+２，３～|ni, san ～|vài~ (“~” là hậu tố chỉ cách đếm)|
+～までに|～ made ni|trước ~ (chỉ thời hạn)|
+ですから|desu kara|vì thế, vì vậy, do đó|
+どうしましたか。|dou shimashita ka.|Có vấn đề gì?/Anh/chị bị làm sao? (cách bác sĩ hỏi bệnh nhân)|
+[［～が]］いたいです|[～ga] itai desu|Tôi bị đau [~].|[［～が]］痛いです
+のど|nodo|họng|
+だいじに。|daiji ni.|Anh/chị nhớ giữ gìn sức khỏe. (câu nói với người ốm hoặc bị bệnh)|お大事に。

@@ -1,0 +1,3 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+あさ|asa|buổi sáng|朝
+あさごはん|asagohan|bữa ăn sáng|朝ご飯

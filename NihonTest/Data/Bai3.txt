@@ -1,0 +1,44 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+ここ||chỗ này, đây|
+そこ||chỗ đó, đó|
+あそこ||chỗ kia, kia|
+どこ||chỗ nào, đâu|
+こちら||phía này, đằng này, chỗ này, đây (cách nói lịch sự của 「ここ」)|
+そちら||phía đó, đằng đó, chỗ đó, đó (cách nói lịch sự của 「そこ」)|
+あちら||phía kia, đằng kia, chỗ kia, kia (cách nói lịch sự của 「あそこ」)|
+どちら||phía nào, đằng nào, chỗ nào, đâu (cách nói lịch sự của 「どこ」)|
+きょうしつ|kyoushitsu|lớp học, phòng học|教室
+しょくどう|shokudou|nhà ăn|食堂
+じむしょ|jimusho|văn phòng|事務所
+かいぎしつ|kaigishitsu|phòng họp|会議室
+うけつけ|uketsuke|bộ phận tiếp tân, phòng thường trực|受付
+ロビー|robii|hành lang, đại sảnh|
+へや|heya|căn phòng|部屋
+トイレ（おてあらい）|toire (otearai)|nhà vệ sinh, phòng vệ sinh, toa-lét|（お手洗い）
+かいだん|kaidan|cầu thang|階段
+エレベーター|erebeetaa|thang máy|
+エスカレーター|esukareetaa|thang cuốn|
+[お]くに|[o]kuni|đất nước (của anh/chị)|[お]国
+かいしゃ|kaisha|công ty|会社
+うち|uchi|nhà|
+でんわ|denwa|máy điện thoại, điện thoại|電話
+くつ|kutsu|giày|靴
+ネクタイ|nekutai|cà vạt|
+ワイン|wain|rượu vang|
+たばこ|tabako|thuốc lá|
+うりば|uriba|quầy bán (trong một cửa hàng bách hóa)|売り場
+ちか|chika|tầng hầm, dưới mặt đất|
+ーかい（ーがい）|ーkai（ーgai）|tầng thứ ー|ー階
+なんがい|nangai|tầng mấy|何階
+ーえん|ーen|ー yên|ー円
+いくら|ikura|bao nhiêu tiền|
+ひゃく|hyaku|trăm|百
+せん|sen|nghìn|千
+まん|man|mười nghìn, vạn|万
+すみません。|sumimasen|xin lỗi|
+～でございます。|～de gozaimasu|(cách nói lịch sự của 「です」)|
+[～を]みせてください|[～o]misete kudasai|cho tôi xem [~]|[～を]見せてください
+じゃ|ja|thế thì, vậy thì|
+[～を]ください|[～o]kudasai|cho tôi [~]|
+イタリア|itaria|Ý|
+スイス|suisu|Thụy Sĩ|

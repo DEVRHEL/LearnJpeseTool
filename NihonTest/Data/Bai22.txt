@@ -1,0 +1,25 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+きます|kimasu|mặc [áo sơ mi, v.v.]|着ます
+はきます|hakimasu|đi, mặc [giày, quần âu, v.v.]|
+かぶります|kaburimasu|đội [mũ, v.v.]|
+かけます|kakemasu|đeo [kính]|
+うまれます|umaremasu|sinh ra|生まれます
+コート|kooto|áo khoác|
+スーツ|suutsu|com-lê|
+セーター|seetaa|áo len|
+ぼうし|boushi|mũ|帽子
+めがね|megane|kính|眼鏡
+よく|yoku|thường, hay|
+おめでとうございます。|omedetou gozaimasu.|Chúc mừng. (dùng để nói trong dịp sinh nhật, lễ cưới, năm mới, v.v.)|
+こちら|kochira|cái này (cách nói lịch sự của [これ])|
+やちん|yachin|tiền thuê nhà|家賃
+うーん|uun|ừ~./ Để tôi xem./ Thế nào nhỉ.|
+ダイニングキチン|dainingu kichin|bếp kèm phòng ăn|
+わしつ|washitsu|phòng kiểu Nhật|和室
+おしいれ|oshiire|chỗ để chăn gối trong phòng kiểu Nhật|押し入れ
+ふとん|futon|chăn, đệm|布団
+アパート|apaato|nhà chung cư|
+パリ|pari|Paris|
+ばんりのちょうじょう|banri no choujou|Vạn Lý Trường Thành|万里の長城
+よかかいはつセンター|yoka kaihatsu sentaa|Trung tâm phát triển hoạt động giải trí cho người dân|余暇開発センター
+レジャーはくしょ|rejaa hakusho|Sách trắng về sử dụng thời gian rảnh rỗi|レジャー白書

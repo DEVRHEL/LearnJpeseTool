@@ -1,0 +1,6 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+あさ|asa|buổi sáng|朝
+あさごはん|asagohan|bữa ăn sáng|朝ご飯
+あさって|asatte|ngày kia|
+あし|ashi|chân|足
+あした|ashita|ngày mai|明日

@@ -1,0 +1,62 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+ハンサム[な]|hansamu[na]|đẹp trai|
+きれい[な]|kirei[na]|đẹp, sạch|
+しずか[な]|shizuka[na]|yên tĩnh|静か[な]
+にぎやか[な]|nigiyaka[na]|náo nhiệt|
+ゆうめい[な]|yuumei[na]|nổi tiếng|有名[な]
+しんせつ[な]|shinsetsu[na]|tốt bụng, thân thiện|親切[な]
+げんき[な]|genki[na]|khỏe|元気[な]
+ひま[な]|hima[na]|rảnh rỗi|暇[な]
+べんり[な]|benri[na]|tiện lợi|便利[な]
+すてき[な]|suteki[na]|đẹp, hay|
+おおきい|ookii|lớn, to|大きい
+ちいさい|chiisai|bé, nhỏ|小さい
+あたらしい|atarashii|mới|新しい
+ふるい|furui|cũ|古い
+いい（よい）|ii (yoi)|tốt|
+わるい|warui|xấu|悪い
+あつい|atsui|nóng|暑い、熱い
+さむい|samui|lạnh, rét (dùng cho thời tiết)|寒い
+つめたい|tsumetai|lạnh, buốt (dùng cho cảm giác)|冷たい
+むずかしい|muzukashii|khó|難しい
+やさしい|yasashii|dễ|易しい
+たかい|takai|đắt, cao|高い
+やすい|yasui|rẻ|安い
+ひくい|hikui|thấp|低い
+おもしろい|omoshiroi|thú vị, hay|
+おいしい|oishii|ngon|
+いそがしい|isogashii|bận|忙しい
+たのしい|tanoshii|vui|楽しい
+しろい|shiroi|trắng|白い
+くろい|kuroi|đen|黒い
+あかい|akai|đỏ|赤い
+あおい|aoi|xanh da trời|青い
+さくら|sakura|anh đào (hoa, cây)|桜
+やま|yama|núi|山
+まち|machi|thị trấn, thị xã, thành phố|町
+たべもの|tabemono|đồ ăn|食べ物
+くるま|kuruma|xe ô tô|車
+ところ|tokoro|nơi, chỗ|所
+りょう|ryou|kí túc xá|寮
+べんきょう|benkyou|học|勉強
+せいかつ|seikatsu|cuộc sống, sinh hoạt|生活
+[お]しごと|[o]shigoto|công việc (～をします: làm việc)|[お]仕事
+どう|dou|thế nào|
+どんな～|donna～|~ như thế nào|
+どれ|dore|cái nào|
+とても|totemo|rất, lắm|
+あまり|amari|không ~ lắm|
+そして|soshite|và, thêm nữa (dùng để nối 2 câu)|
+～が、～|～ga、～|~, nhưng ~|
+おげんきですか。|ogenki desu ka.|Anh/chị có khỏe không?|お元気ですか。
+そうですね。|sou desu ne.|Thế à./ Để tôi xem.|
+[～、]もう一杯いかがですか。|[～、]mou ippai ikaga desu ka.|Anh/ chị dùng thêm một chén [~] nữa được không ạ?|
+いいえ、けっこうです。|iie, kekkou desu.|Không, đủ rồi ạ.|
+もう～です[ね]。|mou～ desu[ne].|Đã ~ rồi nhỉ./ Đã ~ rồi, đúng không ạ?|
+そろそろ失礼します。|sorosoro shitsurei shimasu.|Sắp đến lúc tôi phải xin phép rồi.|失礼します
+またいらっしゃってください。|mata irasshatte kudasai.|Lần sau anh/chị lại đến chơi nhé.|
+ふじさん|fujisan|Núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)|富士山
+びわこ|biwako|Hồ Biwa|琵琶湖
+シャンハイ|shanhai|Thượng Hải|上海
+しちにんのさむらい|shichinin no samurai|bảy chàng võ sĩ Samurai” (tên một bộ phim kinh điển của đạo diễn Kurosawa Akira)|七人の侍
+きんかくじ|kinkakuji|Chùa Kinkaku-ji (chùa vàng)|金閣寺

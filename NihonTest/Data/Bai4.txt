@@ -1,0 +1,60 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+おきます|okimasu|dậy, thức dậy|起きます
+ねます|nemasu|ngủ, đi ngủ|寝ます
+はたらきます|hatarakimasu|làm việc|働きます
+やすみます|yasumimasu|nghỉ, nghỉ ngơi|休みます
+べんきょうします|benkyoushimasu|học|勉強します
+おわります|owarimasu|hết, kết thúc, xong|終わります
+デパート|depaato|bách hóa|
+ぎんこう|ginkou|ngân hàng|銀行
+ゆうびんきょく|yuubinkyoku|bưu điện|郵便局
+としょかん|toshokan|thư viện|図書館
+びじゅつかん|bijutsukan|bảo tàng mỹ thuật|美術館
+いま|ima|bây giờ|今
+―じ|―ji|―giờ|―時
+―ふん（－ぷん）|―fun（－pun）|―phút|―分
+はん|han|rưỡi, nửa|
+なんじ|nanji|mấy giờ|何時
+なんぷん|nanpun|mấy phút|何分
+ごぜん|gozen|sáng, trước 12 giờ trưa|午前
+ごご|gogo|chiều, sau 12 giờ trưa|午後
+あさ|asa|buổi sáng, sáng|朝
+ひる|hiru|buổi trưa, trưa|昼
+ばん（よる）|ban (yoru)|buổi tối, tối|晩(夜)
+おととい|ototoi|hôm kia|
+きのう|kinou|hôm qua|
+きょう|kyou|hôm nay|
+あした|ashita|ngày mai|
+あさって|asatte|ngày kia|
+けさ|kesa|sáng nay|
+こんばん|konban|tối nay|今晩
+やすみ|yasumi|nghỉ, nghỉ phép, ngày nghỉ|休み
+ひるやすみ|hiruyasumi|nghỉ trưa|昼休み
+まいあさ|maiasa|hàng sáng, mỗi sáng|毎朝
+まいばん|maiban|hàng tối, mỗi tối|毎晩
+まいにち|mainichi|hàng ngày, mỗi ngày|毎日
+げつようび|getsuyoubi|thứ hai|月曜日
+かようび|kayoubi|thứ ba|火曜日
+すいようび|suiyoubi|thứ tư|水曜日
+もくようび|mokuyoubi|thứ năm|木曜日
+きんようび|kinyoubi|thứ sáu|金曜日
+どようび|doyoubi|thứ bảy|土曜日
+にちようび|nichiyoubi|chủ Nhật|日曜日
+なんようび|nanyoubi|thứ mấy|何曜日
+ばんごう|bangou|số (số điện thoại, số phòng)|番号
+なんばん|nanban|số bao nhiêu, số mấy|何番
+～から|～kara|~ từ|
+～まで|～made|~ đến|
+～と～|～to～|~ và (dùng để nối hai danh từ)|
+そちら|sochira|ông/bà, phía ông/ phía bà|
+たいへんですね。|taihen desu ne.|Anh/chị vất vả quá. (dùng để bày tỏ sự thông cảm)|大変ですね。
+えーと|eeto|ừ, à (từ đệm trong hội thoại khi đang nghĩ điều muốn nói)|
+おねがいします|onegaishimasu|Nhờ anh/chị. Phiền anh/chị. Xin vui lòng giúp đỡ|お願ねがいします
+かしこまりました。|kashikomarimashita.|Tôi hiểu rồi ạ./ vâng, được rồi ạ.|
+おといあわせのばんごう|otoiawase no bangou|Số điện thoại mà ông/bà muốn hỏi|お問合わせの番号
+[どうも]ありがとうございました。|[doumo] arigatou gozaimashita.|Xin cám ơn ông/bà|
+ニューヨーク|nyuuyooku|New York|
+ペキン|pekin|Bắc Kinh|
+ロンドン|rondon|Luân Đôn|
+バンコク|bankoku|Băng Cốc|
+ロサンゼルス|rosanzerusu|Los Angeles|

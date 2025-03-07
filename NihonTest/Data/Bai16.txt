@@ -1,0 +1,53 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+のります|norimasu|đi, lên [tàu]|乗ります
+おります|orimasu|xuống [tàu]|降ります
+のりかえます|norikaemasu|chuyển, đổi (tàu)|乗り換えます
+あびます|abimasu|tắm [vòi hoa sen]|浴びます
+いれます|iremasu|cho vào, bỏ vào|入れます
+だします|dashimasu|lấy ra, rút (tiền)|出します
+はいります|hairimasu|vào, nhập học [đại học]|入ります
+でます|demasu|ra, tốt nghiệp [đại học]|出ます
+やめます|yamemasu|bỏ, thôi [việc công ty]|
+おします|oshimasu|bấm, ấn (nút)|押します
+わかい|wakai|trẻ|若い
+ながい|nagai|dài|長い
+みじかい|mijikai|ngắn|短い
+あかるい|akarui|sáng|明るい
+くらい|kurai|tối|暗い
+せがたかい|se ga takai|cao (dùng cho người)|背が高い
+あたまがいい|atama ga ii|thông minh|頭がいい
+からだ|karada|người, cơ thể|体
+あたま|atama|đầu|頭
+かみ|kami|tóc|髪
+かお|kao|mặt|顔
+め|me|mắt|目
+みみ|mimi|tai|耳
+くち|kuchi|miệng|口
+は|ha|răng|歯
+おなか|onaka|bụng|
+あし|ashi|chân|足
+サービス|saabisu|dịch vụ|
+ジョギング|jogingu|việc chạy bộ (~をします: chạy bộ)|
+シャワー|shawaa|vòi hoa sen|
+みどり|midori|màu xanh lá cây|緑
+[お]てら|[o]tera|chùa|[お]寺
+じんじゃ|jinja|đền thờ đạo thần|神社
+りゅうがくせい|ryuugakusei|lưu học sinh, du học sinh|留学生
+一ばん|ichiban|số ―|一番
+どうやって|douyatte|làm thế nào~|
+どの～|dono～|cái nào~ (dùng với trường hợp từ ba thứ trở lên)|
+[いいえ、]まだまだです。|[iie,] madamada desu.|[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)|
+おひきだしですか|ohikidashi desu ka|Anh/ chị rút tiền ạ?|お引き出しですか
+まず|mazu|trước hết, đầu tiên|
+キャッシュカード|kyasshu kaado|thẻ ngân hàng, thẻ ATM|
+あんしょうばんごう|anshou bangou|mã số bí mật (mật khẩu)|暗証番号
+つぎに|tsugi ni|tiếp theo|次
+きんがく|kingaku|số tiền, khoản tiền|金額
+かくにん|kakunin|sự xác nhận, sự kiểm tra|確認
+ボタン|botan|nút|
+アジア|ajia|châu Á|
+バンドン|bandon|Bandung (ở Indonesia)|
+ベラクルス|berakurusu|Veracruz (ở Mexico)|
+フランケン|furanken|Franken (ở Đức)|
+ベトナム|betonamu|Việt Nam|
+フェ|fue|Huế|

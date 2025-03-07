@@ -1,0 +1,40 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+つけます|tsukemasu|bật (điện, máy điều hòa)|
+けします|keshimasu|tắt (điện, máy điều hòa)|消します
+あけます|akemasu|mở (cửa, cửa sổ)|開けます
+しめます|shimemasu|đóng (cửa, cửa sổ)|閉めます
+いそぎます|isogimasu|vội, gấp|急ぎます
+まちます|machimasu|đợi, chờ|待ちます
+とめます|tomemasu|dừng (băng, ôtô), đỗ (ôtô)|止めます
+まがります|magarimasu|rẽ, quẹo [phải]|曲がります
+もちます|mochimasu|mang, cầm|持ちます
+とります|torimasu|lấy (muối)|取ります
+てつだいます|tetsudaimasu|giúp (làm việc)|手伝います
+よびます|yobimasu|gọi (taxi, tên)|呼びます
+はなします|hanashimasu|nói, nói chuyện|話します
+みせます|misemasu|cho xem, trình|見せます
+おしえます|oshiemasu|nói, cho biết [địa chỉ]|教えます
+はじめます|hajimemasu|bắt đầu|始めます
+ふります|furimasu|rơi [mưa, tuyết~]|降ります
+コピーします|kopii shimasu|copy|
+エアコン|eakon|máy điều hòa|
+パスポート|pasupooto|hộ chiếu|
+なまえ|namae|tên|名前
+じゅうしょ|juusho|địa chỉ|住所
+ちず|chizu|bản đồ|地図
+しお|shio|muối|塩
+さとう|satou|đường|砂糖
+よみかた|yomikata|cách đọc|読み方
+～かた|～kata|cách ~|～方
+ゆっくり|yukkuri|chậm, thong thả, thoải mái|
+すぐ|sugu|ngay, lập tức|
+また|mata|lại (~đến)|
+あとで|atode|sau|
+もうすこし|mou sukoshi|thêm một chút nữa thôi|もう 少し
+もう～|mou～|thêm~|
+いいですよ。|ii desu yo.|Được chứ./được ạ.|
+さあ|saa|thôi,/nào, (dùng để thúc giục hoặc khuyến khích ai làm gì.)|
+しんごうをみぎへまがってください|shingou o migi e magatte kudasai|Anh/ Chị rẽ phải ở chỗ đèn tín hiệu.|信号を右へ曲がってください
+まっすぐ|massugu|thẳng|
+これでおねがいします。|kore de onegai shimasu.|Gửi anh tiền này.|これでお願いします。
+おつり|otsuri|tiền lẻ|お釣り

@@ -1,0 +1,51 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+わかります|wakarimasu|hiểu, nắm được|
+あります|arimasu|có (sở hữu)|
+すき[な]|suki[na]|thích|好き[な]
+きらい[な]|kirai[na]|ghét, không thích|嫌い[な]
+じょうず[な]|jouzu[na]|giỏi, khéo|上手[な]
+へた[な]|heta[na]|kém|下手[な]
+りょうり|ryouri|món ăn, việc nấu ăn|料理
+のみもの|nomimono|đồ uống|飲み物
+スポーツ|supootsu|thể thao (～をします: chơi thể thao)|
+やきゅう|yakyuu|bóng chày (～をします: chơi bóng chày)|野球
+ダンス|dansu|nhảy, khiêu vũ (～をします: nhảy, khiêu vũ)|
+おんがく|ongaku|âm nhạc|音楽
+うた|uta|bài hát|歌
+クラシック|kurashikku|nhạc cổ điển|
+ジャズ|jazu|nhạc jazz|
+コンサート|konsaato|buổi hòa nhạc|
+カラオケ|karaoke|karaoke|
+かぶき|kabuki|Kabuki (một loại ca kịch truyền thống của Nhật)|歌舞伎
+え|e|tranh, hội họa|絵
+じ|ji|chữ|字
+かんじ|kanji|chữ hán|漢字
+ひらがな|hiragana|chữ Hiragana|
+かたかな|katakana|chữ Katakana|
+ローマじ|roomaji|chữ La Mã|ローマ字
+こまかいおかね|komakai okane|tiền lẻ|細かいお金
+チケット|chiketto|vé (xem hòa nhạc, xem phim)|
+じかん|jikan|thời gian|時間
+ようじ|youji|việc bận, công chuyện|用事
+やくそく|yakusoku|cuộc hẹn, lời hứa|約束
+ごしゅじん|goshujin|chồng (dùng khi nói về chồng người khác)|ご主人
+おっと/しゅじん|otto/shujin|chồng (dùng khi nói về chồng mình)|夫/主人
+おくさん|okusan|vợ (dùng khi nói về vợ người khác)|奥さん
+つま/かない|tsuma/kanai|vợ (dùng khi nói về vợ mình)|妻/家内
+こども|kodomo|con cái|子ども
+よく|yoku|tốt, rõ (chỉ mức độ)|
+だいたい|daitai|đại khái, đại thể|
+たくさん|takusan|nhiều|
+すこし|sukoshi|ít, một ít|少し
+ぜんぜん|zenzen|hoàn toàn ~ không|全然
+はやく|hayaku|sớm, nhanh|早く、速く
+～から|～kara|vì ~|
+どうして|doushite|tại sao|
+ざんねんです[ね]。|zannen desu[ne].|Thật đáng tiếc nhỉ./ Buồn nhỉ.|残念です[ね]。
+すみません。|sumimasen.|Xin lỗi.|
+もしもし|moshi moshi|a-lô|
+ああ|aa|à (cách nói khi đã gặp được)|
+いっしょにいかがですか。|issho ni ikaga desu ka.|Anh/chị cùng ~ (làm cái gì đó) với chúng tôi được không?|
+[～は]ちょっと….。|[～wa] chotto....|[~ thì] có lẽ không được rồi. (cách từ chối khéo khi nhận được một lời mời)|
+だめですか。|dame desu ka.|Không được à?|
+またこんどおねがいします。|mata kondo onegai shimasu.|Hẹn anh/chị lần sau vậy.|また今度お願ねがいします。

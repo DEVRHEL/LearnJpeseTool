@@ -1,0 +1,49 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+かんたん「な」|kantan[na]|đơn giản, dễ|簡単[な]
+ちかい|chikai|gần|近い
+とおい|tooi|xa|遠い
+はやい|hayai|nhanh, sớm|速い、早い
+おそい|osoi|chậm, muộn|遅い
+おおい|ooi|nhiều [người]|多い
+すくない|sukunai|ít [người]|少ない
+あたたかい|atatakai|ấm|温かい、暖かい
+すずしい|suzushii|mát|涼しい
+あまい|amai|ngọt|甘い
+からい|karai|cay|辛い
+おもい|omoi|nặng|重い
+かるい|karui|nhẹ|軽い
+いい|ii|thích, chọn, dùng [cà phê]|
+きせつ|kisetsu|mùa|季節
+はる|haru|mùa xuân|春
+なつ|natsu|mùa hè|夏
+あき|aki|mùa thu|秋
+ふゆ|fuyu|mùa đông|冬
+てんき|tenki|thời tiết|天気
+あめ|ame|mưa|雨
+ゆき|yuki|tuyết|雪
+くもり|kumori|có mây|曇り
+ホテル|hoteru|khách sạn|
+くうこう|kuukou|sân bay|空港
+うみ|umi|biển, đại dương|海
+せかい|sekai|thế giới|世界
+パーティー|paatii|tiệc (~をします: tổ chức tiệc)|
+「お」まつり|[o]matsuri|lễ hội|「お」祭り
+しけん|shiken|kỳ thi, bài thi|試験
+すきやき|sukiyaki|món thịt bò nấu rau|すき焼き
+さしみ|sashimi|món gỏi cá sống|刺身
+「お」すし|[o]sushi|Sushi|
+てんぷら|tenpura|Tempura (món hải sản và rau chiên tẩm bột)|
+いけばな|ikebana|nghệ thuật cắm hoa (~をします: cắm hoa)|生け花
+もみじ|momiji|lá đỏ|紅葉
+どちら|dochira|cái nào|
+どちらも|dochiramo|cả hai|
+ずっと|zutto|(hơn) hẳn (dùng để nhấn mạnh sự khác biệt giữa hai đối tượng)|
+はじめて|hajimete|lần đầu tiên|初めて
+ただいま。|tadaima.|Tôi đã về đây.|
+おかえりなさい。|okaerinasai.|Anh/Chị đã về đấy à.|
+すごいですね。|sugoi desu ne.|Ghê quá nhỉ./ hay quá nhỉ.|
+でも|demo|Nhưng|
+つかれました。|tsukaremashita.|Tôi mệt rồi.|疲れました
+ぎおんまつり|gionmatsuri|Lễ hội Gion (lễ hội nổi tiếng nhất ở Kyoto)|祇園祭
+ホンコン|honkon|Hồng Kông (香港)|
+シンガポール|shingapooru|Singapore|

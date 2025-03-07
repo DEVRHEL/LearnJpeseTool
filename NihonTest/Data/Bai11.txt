@@ -1,0 +1,62 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+います||có [con]|
+います||ở [Nhật]|
+かかります||mất, tốn (thời gian, tiền bạc)|
+やすみます|yasumimasu|nghỉ [làm việc]|休みます
+ひとつ|hitotsu|một cái (dùng để đếm đồ vật)|１つ
+ふたつ|futatsu|hai cái|２つ
+みっつ|mittsu|ba cái|３つ
+よっつ|yottsu|bốn cái|４つ
+いつつ|itsutsu|năm cái|５つ
+むっつ|muttsu|sáu cái|６つ
+ななつ|nanatsu|bảy cái|７つ
+やっつ|yattsu|tám cái|８つ
+ここのつ|kokonotsu|chín cái|９つ
+とお|too|mười cái|１０
+いくつ||mấy cái, bao nhiêu cái|
+ひとり|hitori|một người|１人
+ふたり|futari|hai người|２人
+―にん|―nin|― người|―人
+―だい|―dai|― cái (dùng để đếm máy móc, xe cộ v.v.)|―台
+―まい|―mai|― tờ, tấm (dùng để đếm những vật mỏng như giấy, con tem v.v.)|―枚
+―かい|―kai|― lần|―回
+りんご|ringo|táo|
+みかん|mikan|quýt|
+サンドイッチ|sandoicchi|bánh San Uých|
+カレー[ライス]|karee[raisu]|món [cơm] ca-ri|
+アイスクリーム|aisukuriimu|kem|
+きって|kitte|tem|切手
+はがき|hagaki|bưu thiếp|
+ふうとう|fuutou|phong bì|封筒
+そくたつ|sokutatsu|(bưu phẩm) gửi nhanh|速達
+かきとめ|kakitome|(bưu phẩm) gửi bảo đảm|書留
+エアメール|eameeru|gửi bằng đường hàng không|
+ふなびん|funabin|gửi bằng đường biển|船便
+りょうしん|ryoushin|bố mẹ|両親
+きょうだい|kyoudai|anh chị em|兄弟
+あに|ani|anh trai|兄
+おにいさん|oniisan|anh trai (dùng cho người khác)|お兄さん
+あね|ane|chị gái|姉
+おねえさん|oneesan|chị gái (dùng cho người khác)|お姉さん
+おとうと|otouto|em trai|弟
+おとうとさん|otoutosan|em trai (dùng cho người khác)|弟さん
+いもうと|imouto|em gái|妹
+いもうとさん|imoutosan|em gái (dùng cho người khác)|妹さん
+がいこく|gaikoku|nước ngoài|外国
+―じかん|―jikan|― tiếng|―時間
+―しゅうかん|―shuukan|― tuần|―週間
+―かげつ|―kagetsu|― tháng|―か月
+―ねん|―nen|― năm|―年
+～ぐらい|～gurai|khoảng ~|
+どのぐらい||bao lâu|
+ぜんぶで|zenbude|tổng cộng|全部で
+みんな||tất cả|
+～だけ|～dake|chỉ ~|
+いらっしゃいませ。||Xin mời vào./ Xin chào quý khách.|
+いい[お]てんきですね。|ii [o]tenki desu ne.|Trời đẹp nhỉ.|いい[お]天気ですね。
+おでかけですか。|odekake desu ka.|Anh/ chị đi ra ngoài đấy à?|お出かけですか。
+ちょっと～まで。||Tôi đi ~ một chút.|
+いっていらっしゃい|itte irasshai|Anh/chị đi nhé.|行っていらっしゃい
+いってまいります|itte mairimasu|Tôi đi đây.|行ってまいります
+それから||sau đó, tiếp nữa|
+オーストラリア|oosutoraria|Úc|

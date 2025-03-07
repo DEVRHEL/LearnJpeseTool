@@ -1,0 +1,48 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+これ|kore|cái này, đây (vật ở gần người nói)|
+それ|sore|cái đó, đó (vật ở gần người nghe)|
+あれ|are|cái kia, kia (vật ở xa cả người nói và người nghe)|
+この～|kono～|~ này|
+その～|sono～|~ đó|
+あの～|ano～|~ kia|
+ほん|hon|sách|本
+じしょ|jisho|từ điển|辞書
+ざっし|zasshi|tạp chí|雑誌
+しんぶん|shinbun|báo|新聞
+ノート|nooto|vở|
+てちょう|techou|sổ tay|手帳
+めいし|meishi|danh thiếp|名刺
+カード|kaado|thẻ, cạc|
+テレホンカード|terehonkaado|thẻ điện thoại|
+えんぴつ|enpitsu|bút chì|鉛筆
+ボールペン|boorupen|bút bi|
+シャープペンシル|shaapupenshiru|bút chì kim, bút chì bấm|
+かぎ|kagi|chìa khóa|
+とけい|tokei|đồng hồ|時計
+かさ|kasa|ô, dù|傘
+かばん|kaban|cặp sách, túi sách|
+[カセット]テープ|kasetto teepu|băng [cát-xét]|
+テープレコーダー|teepu rekoodaa|máy ghi âm|
+テレビ|terebi|tivi|
+ラジオ|rajio|Radio|
+カメラ|kamera|máy ảnh|
+コンピューター|konpyuutaa|máy vi tính|
+じどうしゃ|jidousha|ô tô, xe hơi|自動車
+つくえ|tsukue|bàn|机
+いす|isu|ghế|
+チョコレート|chokoreeto|sô cô la|
+コーヒー|koohii|cà phê|
+えいご|eigo|tiếng Anh|英語
+にほんご|nihongo|tiếng Nhật|日本語
+～ご|～go|tiếng ～|～語
+なん|nan|cái gì|何
+そう|sou|đúng, phải, đúng vậy|
+ちがいます|chigaimasu|không phải, không đúng, sai rồi|違います
+そうですか|sou desu ka|thế à, vậy à|
+あのう|anou|à, ờ…|
+ほんのきもちです|hon no kimochi desu|chỉ là chút lòng thành thôi|ほんの気持ちです
+どうぞ|douzo|xin mời (dùng khi mời ai đó cái gì)|
+どうも|doumo|cám ơn|
+「どうも」ありがとう「ございます」|「doumo」arigatou「gozaimasu」|「xin」「chân thành」cảm ơn/xin cảm ơn「rất nhiều」|
+これからおせわになります|kore kara osewa ni narimasu|từ nay tôi mong được sự giúp đỡ của anh/chị|これからお世話になります
+こちらこそよろしく|kochira koso yoroshiku|chính tôi cũng mong được sự giúp đỡ của anh/chị|

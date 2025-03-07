@@ -1,0 +1,35 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+ききます|kikimasu|hỏi [giáo viên]|聞きます
+まわします|mawashimasu|vặn (núm)|回します
+ひきます|hikimasu|kéo|引きます
+かえます|kaemasu|đổi|変えます
+さわります|sawarimasu|sờ, chạm vào [cửa]|触ります
+でます|demasu|ra, đi ra [tiền thừa ~]|出ます
+うごきます|ugokimasu|chuyển động, chạy [đồng hồ ~]|動きます
+あるきます|arukimasu|đi bộ [trên đường]|歩きます
+わたります|watari masu|qua, đi qua [cầu]|渡ります
+きをつけます|ki o tsukemasu|chú ý, cẩn thận [với ô-tô]|気をつけます
+ひっこしします|hikkoshi shimasu|chuyển nhà|引っ越しします
+でんきや|denkiya|cửa hàng đồ điện|電気屋
+～や|～ya|cửa hàng ~|～屋
+サイズ|saizu|cỡ, kích thước|
+おと|oto|âm thanh|音
+きかい|kikai|máy, máy móc|機械
+つまみ|tsumami|núm vặn|
+こしょう|koshou|hỏng (~します：bị hỏng)|故障
+みち|michi|đường|道
+こうさてん|kousaten|ngã tư|交差点
+しんごう|shingou|đèn tín hiệu|信号
+かど|kado|góc|角
+はし|hashi|cầu|橋
+ちゅうしゃじょう|chuushajou|bãi đỗ xe|駐車場
+～め|～me|thứ ～, số ～ (biểu thị thứ tự)|～目
+「お」しょうがつ|[o]shougatsu|Tết (Dương lịch)|「お」正月
+ごちそうさま「でした」。|gochisousama deshita.|Xin cám ơn anh/chị đã đãi tôi bữa cơm. (câu nói dùng khi ăn xong bữa cơm)|
+たてもの|tatemono|tòa nhà|建物
+がいこくじんとうろくしょう|gaikokujin tourokushou|thẻ đăng ký người nước ngoài, thẻ đăng ký ngoại kiều|外国人登録証
+しょうとくたいし|shoutoku taishi|Thái tử Shotoku (574 – 622)|
+ほうりゅうじ|houryuuji|Chùa Horyu-ji (một ngôi chùa ở Nara do hoàng tử Shotoku xây vào thế kỷ thứ 7)|
+げんきちゃ|genki cha|tên một loại trà (giả tưởng)|元気茶
+ほんだえき|honda eki|tên một nhà ga (giả tưởng)|本田駅
+としょかんまえ|toshokan mae|tên một bến xe buýt (giả tưởng)|図書館前

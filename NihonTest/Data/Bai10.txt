@@ -1,0 +1,48 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+います|imasu|có, ở (tồn tại, dùng cho người và động vật)|
+あります|arimasu|có (tồn tại, dùng cho đồ vật)|
+いろいろ[な]|iroiro[na]|nhiều, đa dạng|
+おとこのひと|otoko no hito|người đàn ông|男の人
+おんなのひと|onna no hito|người đàn bà|女の人
+おとこのこ|otoko no ko|cậu con trai|男の子
+おんなのこ|onna no ko|cô con gái|女の子
+いぬ|inu|chó|犬
+ねこ|neko|mèo|猫
+き|ki|cây, gỗ|木
+もの|mono|vật, đồ vật|物
+フィルム|firumu|phim|
+でんち|denchi|pin|電池
+はこ|hako|hộp|箱
+スイッチ|suicchi|công tắc|
+れいぞうこ|reizouko|tủ lạnh|冷蔵庫
+テーブル|teeburu|bàn|
+ベッド|beddo|giường|
+たな|tana|giá sách|棚
+ドア|doa|cửa|
+まど|mado|cửa sổ|窓
+ポスト|posuto|hộp thư, hòm thư|
+ビル|biru|tòa nhà|
+こうえん|kouen|công viên|公園
+きっさてん|kissaten|quán giải khát, quán cà phê|喫茶店
+ほんや|honya|hiệu sách|本屋
+～や|～ya|hiệu ~, cửa hàng ~|～屋
+のりば|noriba|bến xe, điểm lên xuống xe|乗り場
+けん|ken|tỉnh|県
+うえ|ue|trên|上
+した|shita|dưới|下
+まえ|mae|trước|前
+うしろ|ushiro|sau|
+みぎ|migi|phải|右
+ひだり|hidari|trái|左
+なか|naka|trong, giữa|中
+そと|soto|ngoài|外
+となり|tonari|bên cạnh|隣
+ちかく|chikaku|gần|近く
+あいだ|aida|giữa|間
+～や～[など]|～ya～[nado]|~ và ~, [v.v.]|
+いちばん～|ichiban～|~ nhất (いちばん うえ: vị trí cao nhất)|
+―だんめ|―danme|giá thứ -, tầng thứ - (「だん」 được dùng cho giá sách v.v.)|―段目
+[どうも]すみません。|[doumo] sumimasen.|Cám ơn|
+チリソース|chirisoosu|tương ớt (chili sauce)|
+おく|oku|bên trong cùng, phía sâu bên trong|奥
+スパイス・コーナー|supaisu koonaa|góc gia vị (spice corner)|

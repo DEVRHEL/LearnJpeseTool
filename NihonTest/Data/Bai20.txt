@@ -1,0 +1,30 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+いります|irimasu|cần [thị thực (visa)]|要ります
+しらべます|shirabemasu|tìm hiểu, điều tra, xem|調べます
+なおします|naoshimasu|sửa, chữa|直します
+しゅうりします|shuuri shimasu|sửa chữa, tu sửa|修理します
+でんわします|denwa shimasu|gọi điện thoại|電話します
+ぼく|boku|tớ (cách xưng thân mật của nam giới, cùng nghĩa với [わたし])|僕
+きみ|kimi|cậu, bạn (cách gọi thân mật dùng cho nam giới, cùng nghĩa với 「あなた」)|君
+～くん|～kun|anh~, cậu~ (cách gọi thân mật dùng cho nam giới, cùng nghĩa với 「～さん」)|～君
+うん|un|ừ (cách nói thân mật của 「はい」)|
+ううん|uun|không (cách nói thân mật của 「いいえ」)|
+サラリーマン|sarariiman|người làm việc cho các công ty|
+ことば|kotoba|từ, tiếng|
+ぶっか|bukka|giá cả, mức giá, vật giá|物価
+きもの|kimono|Kimono (trang phục truyền thống của Nhật Bản)|着物
+ビザ|biza|thị thực, Visa|
+はじめ|hajime|ban đầu, đầu tiên|始め
+おわり|owari|kết thúc|終わり
+こっち|kocchi|phía này, chỗ này (cách nói thân mật của 「こちら」)|
+そっち|socchi|phía đó, chỗ đó (cách nói thân mật của 「そちら」)|
+あっち|acchi|phía kia, chỗ kia (cách nói thân mật của 「あちら」)|
+どっち|docchi|cái nào, phía nào, đâu (cách nói thân mật của 「どちら」)|
+このあいだ|kono aida|vừa rồi, hôm nọ|この間
+みんなで|minna de|mọi người cùng|
+～けど|～kedo|~, nhưng (cách nói thân mật của 「が」)|
+くにへかえるの？|kuni e kaeru no?|Anh/chị có về nước không?|国へ帰るの？
+どうするの？|dou suru no?|Anh/ chị tính sao? Anh/chị sẽ làm gì?|
+どうしようかな。|dou shiyou kana.|Tính sao đây nhỉ?/để tôi xem.|
+よかったら|yokattara|Nếu anh/chị thích thì|
+いろいろ|iroiro|nhiều thứ|

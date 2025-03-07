@@ -1,0 +1,41 @@
+Hiragana|Romanji|Tiếng Việt|Kanji
+あそびます|asobimasu|chơi|遊びます
+およぎます|oyogimasu|bơi|泳ぎます
+むかえます|mukaemasu|đón|迎えます
+つかれます|tsukaremasu|mệt|疲れます
+だします|dashimasu|gửi [thư]|出します
+はいります|hairimasu|vào [quán giải khát]|入ります
+でます|demasu|ra, ra khỏi [quán giải khát]|出ます
+けっこんします|kekkon shimasu|kết hôn, lập gia đình, cưới|結婚します
+かいものします|kaimono shimasu|mua hàng|買い物します
+しょくじします|shokuji shimasu|ăn cơm|食事します
+さんぽします|sanpo shimasu|đi dạo [ở công viên]|散歩します
+たいへん「な」|taihen[na]|vất vả, khó khăn, khổ|大変[な]
+ほしい|hoshii|muốn có|欲しい
+さびしい|sabishii|buồn, cô đơn|寂しい
+ひろい|hiroi|rộng|広い
+せまい|semai|chật, hẹp|狭い
+しやくしょ|shiyakusho|văn phòng hành chính quận, thành phố|市役所
+プール|puuru|bể bơi|
+かわ|kawa|sông|川
+けいざい|keizai|kinh tế|経済
+びじゅつ|bijutsu|mỹ thuật|美術
+つり|tsuri|việc câu cá (~をします: câu cá)|釣り
+スキー|sukii|việc trượt tuyết (~をします: trượt tuyết)|
+かいぎ|kaigi|họp, cuộc họp (~をします: họp, tổ chức cuộc họp)|会議
+とうろく|touroku|việc đăng ký (~をします: đăng ký)|登録
+しゅうまつ|shuumatsu|cuối tuần|週末
+～ごろ|～goro|khoảng ~ (dùng cho thời gian)|
+なにか|nanika|cái gì đó|何か
+どこか|dokoka|đâu đó, chỗ nào đó|
+おなかがすきました|onaka ga sukimashita|(tôi) đói rồi.|
+おなかがいっぱいです|onaka ga ippai desu|(tôi) no rồi.|
+のどがかわきました|nodo ga kawakimashita|(tôi) khát.|
+そうですね。|sou desu ne.|Đúng thế.|
+そうしましょう。|sou shimashou.|Nhất trí./ Chúng ta thống nhất như thế.|
+ごちゅうもんは？|gochuumon wa?|Anh/Chị dùng món gì ạ?|ご注文は？
+ていしょく|teishoku|Cơm suất, cơm phần|
+ぎゅうどん|gyuudon|món cơm thịt bò|牛どん
+[しょうしょう]おまちください|[shoushou] omachi kudasai.|Xin anh/chị vui lòng đợi [một chút].|[少々]お待ちください。
+べつべつに|betsubetsu ni|riêng ra/ để riêng|別々に
+ロシア|roshia|Nga|
