@@ -6,6 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.VisualStyles;
@@ -59,7 +60,25 @@ namespace NihonTest
                 vocabularyTopics[topicName] = vocabularyList;
             }
 
-            topicListBox.Items.AddRange(vocabularyTopics.Keys.ToArray());
+            // **Sắp xếp theo số thứ tự đúng**
+            var sortedTopics = vocabularyTopics.Keys
+                .OrderBy(x => ExtractNumber(x))
+                .ToArray();
+
+            topicListBox.Items.AddRange(sortedTopics);
+
+            // **Chọn mục đầu tiên nếu danh sách có ít nhất một phần tử**
+            if (topicListBox.Items.Count > 0)
+            {
+                topicListBox.SelectedIndex = 0;
+            }
+        }
+
+        // **Hàm trích xuất số từ chuỗi để sắp xếp đúng thứ tự**
+        private int ExtractNumber(string topicName)
+        {
+            Match match = Regex.Match(topicName, @"\d+"); // Tìm số trong chuỗi
+            return match.Success ? int.Parse(match.Value) : int.MaxValue; // Nếu không có số, đặt giá trị lớn nhất
         }
 
         private void learnRadio_CheckedChanged(object sender, EventArgs e)
@@ -142,7 +161,7 @@ namespace NihonTest
         private void UpdateVocabularyDisplayByTest()
         {
             if (!vocabularyTopics.ContainsKey(currentTopic) || vocabularyTopics[currentTopic].Count < 4)
-            { 
+            {
                 contentTexbox.Text = new string('\n', emptyLines) + "Không đủ từ vựng để tạo câu hỏi!";
                 contentTexbox.SelectAll();
                 contentTexbox.SelectionAlignment = HorizontalAlignment.Center;
@@ -206,7 +225,8 @@ namespace NihonTest
         private void aButton_Click(object sender, EventArgs e)
         {
             var isCorrect = isCorrectAnswer(aButton.Text);
-            if (isCorrect) {
+            if (isCorrect)
+            {
                 aButton.BackColor = Color.Green;
             }
             else
@@ -399,6 +419,16 @@ namespace NihonTest
             }
 
             RightPanel.Visible = true; // Hiện lại RightPanel
+        }
+
+        private void setTimerCheckbox_CheckedChanged(object sender, EventArgs e)
+        {
+            UpdateVocabularyDisplay();
+        }
+
+        private void romajiCheckbox_CheckedChanged(object sender, EventArgs e)
+        {
+            UpdateVocabularyDisplay();
         }
     }
 }

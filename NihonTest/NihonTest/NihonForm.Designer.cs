@@ -121,6 +121,7 @@
             setTimerCheckbox.TabIndex = 14;
             setTimerCheckbox.Text = "Tự động chuyển câu";
             setTimerCheckbox.UseVisualStyleBackColor = true;
+            setTimerCheckbox.CheckedChanged += setTimerCheckbox_CheckedChanged;
             // 
             // progressBar
             // 
@@ -240,6 +241,7 @@
             romajiCheckbox.TabIndex = 3;
             romajiCheckbox.Text = "Ẩn Romanji";
             romajiCheckbox.UseVisualStyleBackColor = true;
+            romajiCheckbox.CheckedChanged += romajiCheckbox_CheckedChanged;
             // 
             // learnRadio
             // 
