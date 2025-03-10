@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NihonTest.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,7 @@ namespace NihonTest
 {
     public partial class PopupForm : Form
     {
+        public int ReturnedIndex { get; private set; }
         private Dictionary<string, List<Vocabulary>> vocabularyTopics;
         private string currentTopic;
         private int currentVocabularyIndex;
@@ -166,6 +168,7 @@ namespace NihonTest
             contentTexbox.Text = new string('\n', emptyLines) + vocabularyLabel + romanjiLabel + "---------------\r\n" + meaningLabel;
             contentTexbox.SelectAll();
             contentTexbox.SelectionAlignment = HorizontalAlignment.Center;
+            contentTexbox.DeselectAll();
         }
 
         private void UpdateVocabularyDisplayByTest()
@@ -175,6 +178,7 @@ namespace NihonTest
                 contentTexbox.Text = new string('\n', emptyLines) + "Không đủ từ vựng để tạo câu hỏi!";
                 contentTexbox.SelectAll();
                 contentTexbox.SelectionAlignment = HorizontalAlignment.Center;
+                contentTexbox.DeselectAll();
 
                 setAnswerButonOnOff(false);
                 resetProgressBar();
@@ -203,6 +207,7 @@ namespace NihonTest
             contentTexbox.Text = new string('\n', emptyLines) + correctAnswer.Hiragana + romanjiLabel + "\r\n---------------\r\nCó nghĩa là?";
             contentTexbox.SelectAll();
             contentTexbox.SelectionAlignment = HorizontalAlignment.Center;
+            contentTexbox.DeselectAll();
             aButton.Text = options[0].Vietnamese;
             bButton.Text = options[1].Vietnamese;
             cButton.Text = options[2].Vietnamese;
@@ -214,9 +219,11 @@ namespace NihonTest
             if (!setTimerCheckbox)
             {
                 resetProgressBar();
+                progressBar.Visible = false;
                 return;
             };
 
+            progressBar.Visible = true;
             progressValue = 0;
             progressBar.Value = 0; // Reset ProgressBar
             progressBar.Maximum = totalTime * 10; // Tổng số bước (cập nhật mỗi 100ms)

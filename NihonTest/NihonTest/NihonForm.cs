@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NihonTest.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,7 +21,7 @@ namespace NihonTest
         private int currentVocabularyIndex = 0;
         private Vocabulary correctAnswer;
         private Random random = new Random();
-        private int emptyLines = 0;
+        private int emptyLines = 1;
         private System.Windows.Forms.Timer progressTimer;
         private int progressValue = 0;
         private Form popupForm;
@@ -30,7 +31,6 @@ namespace NihonTest
         {
             InitializeComponent();
             LoadVocabularyData();
-            emptyLines = ((contentTexbox.Height / contentTexbox.Font.Height) - 1) / 2; // Số dòng trống cần thêm
         }
 
         private void LoadVocabularyData()
@@ -136,6 +136,7 @@ namespace NihonTest
             contentTexbox.Text = new string('\n', emptyLines) + vocabularyLabel + romanjiLabel + "---------------\r\n" + meaningLabel;
             contentTexbox.SelectAll();
             contentTexbox.SelectionAlignment = HorizontalAlignment.Center;
+            contentTexbox.DeselectAll();
         }
 
         private void UpdateVocabularyDisplayByTest()
@@ -145,6 +146,7 @@ namespace NihonTest
                 contentTexbox.Text = new string('\n', emptyLines) + "Không đủ từ vựng để tạo câu hỏi!";
                 contentTexbox.SelectAll();
                 contentTexbox.SelectionAlignment = HorizontalAlignment.Center;
+                contentTexbox.DeselectAll();
 
                 setAnswerButonOnOff(false);
                 resetProgressBar();
@@ -173,6 +175,7 @@ namespace NihonTest
             contentTexbox.Text = new string('\n', emptyLines) + correctAnswer.Hiragana + romanjiLabel + "\r\n---------------\r\nCó nghĩa là?";
             contentTexbox.SelectAll();
             contentTexbox.SelectionAlignment = HorizontalAlignment.Center;
+            contentTexbox.DeselectAll();
             aButton.Text = options[0].Vietnamese;
             bButton.Text = options[1].Vietnamese;
             cButton.Text = options[2].Vietnamese;
@@ -263,9 +266,11 @@ namespace NihonTest
         {
             if (!setTimerCheckbox.Checked)
             {
+                progressBar.Visible = false;
                 resetProgressBar();
                 return;
             };
+            progressBar.Visible = true;
 
             if (!int.TryParse(timerTexbox.Text, out totalTime) || totalTime < 1)
             {
@@ -378,17 +383,6 @@ namespace NihonTest
             int screenX = Screen.PrimaryScreen.WorkingArea.Width - popupForm.Width - 10;
             int screenY = Screen.PrimaryScreen.WorkingArea.Height - popupForm.Height - 10;
             popupForm.Location = new Point(screenX, screenY);
-
-            // Thêm nội dung từ RightPanel vào popup
-            RichTextBox popupContent = new RichTextBox
-            {
-                Dock = DockStyle.Fill,
-                ReadOnly = true,
-                Font = contentTexbox.Font,
-                Text = contentTexbox.Text
-            };
-
-            popupForm.Controls.Add(popupContent);
             popupForm.FormClosing += (s, e) => popupCheckbox.Checked = false; // Khi đóng, bỏ chọn checkbox
             popupForm.Show();
 

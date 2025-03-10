@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PopupForm));
             contentTexbox = new RichTextBox();
             progressBar = new ProgressBar();
             aButton = new Button();
@@ -44,7 +45,7 @@
             contentTexbox.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point);
             contentTexbox.Location = new Point(0, 0);
             contentTexbox.Name = "contentTexbox";
-            contentTexbox.Size = new Size(612, 250);
+            contentTexbox.Size = new Size(613, 250);
             contentTexbox.TabIndex = 5;
             contentTexbox.Text = "";
             // 
@@ -54,6 +55,7 @@
             progressBar.Name = "progressBar";
             progressBar.Size = new Size(388, 14);
             progressBar.TabIndex = 1;
+            progressBar.Visible = false;
             // 
             // aButton
             // 
@@ -134,6 +136,7 @@
             Controls.Add(aButton);
             Controls.Add(progressBar);
             Controls.Add(contentTexbox);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "PopupForm";
             Text = "PopupForm";
             ResumeLayout(false);

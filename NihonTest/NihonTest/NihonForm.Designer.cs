@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NihonForm));
             LeftPanel = new Panel();
             topicListBox = new ListBox();
             RightPanel = new Panel();
@@ -129,13 +130,14 @@
             progressBar.Name = "progressBar";
             progressBar.Size = new Size(1017, 10);
             progressBar.TabIndex = 12;
+            progressBar.Visible = false;
             // 
             // nextButton
             // 
             nextButton.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            nextButton.Location = new Point(520, 705);
+            nextButton.Location = new Point(517, 705);
             nextButton.Name = "nextButton";
-            nextButton.Size = new Size(500, 46);
+            nextButton.Size = new Size(503, 46);
             nextButton.TabIndex = 11;
             nextButton.Text = ">>>>>";
             nextButton.UseVisualStyleBackColor = true;
@@ -144,9 +146,9 @@
             // previousButton
             // 
             previousButton.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            previousButton.Location = new Point(13, 705);
+            previousButton.Location = new Point(3, 705);
             previousButton.Name = "previousButton";
-            previousButton.Size = new Size(500, 46);
+            previousButton.Size = new Size(503, 46);
             previousButton.TabIndex = 10;
             previousButton.Text = "<<<<<";
             previousButton.UseVisualStyleBackColor = true;
@@ -157,9 +159,9 @@
             dButton.BackColor = Color.Transparent;
             dButton.BackgroundImageLayout = ImageLayout.None;
             dButton.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point);
-            dButton.Location = new Point(520, 586);
+            dButton.Location = new Point(517, 586);
             dButton.Name = "dButton";
-            dButton.Size = new Size(500, 113);
+            dButton.Size = new Size(503, 113);
             dButton.TabIndex = 9;
             dButton.Text = "D";
             dButton.UseVisualStyleBackColor = false;
@@ -171,9 +173,9 @@
             cButton.BackColor = Color.Transparent;
             cButton.BackgroundImageLayout = ImageLayout.None;
             cButton.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point);
-            cButton.Location = new Point(13, 586);
+            cButton.Location = new Point(3, 586);
             cButton.Name = "cButton";
-            cButton.Size = new Size(500, 113);
+            cButton.Size = new Size(503, 113);
             cButton.TabIndex = 8;
             cButton.Text = "C";
             cButton.UseVisualStyleBackColor = false;
@@ -185,9 +187,9 @@
             bButton.BackColor = Color.Transparent;
             bButton.BackgroundImageLayout = ImageLayout.None;
             bButton.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point);
-            bButton.Location = new Point(520, 467);
+            bButton.Location = new Point(517, 467);
             bButton.Name = "bButton";
-            bButton.Size = new Size(500, 113);
+            bButton.Size = new Size(503, 113);
             bButton.TabIndex = 7;
             bButton.Text = "B";
             bButton.UseVisualStyleBackColor = false;
@@ -199,9 +201,9 @@
             aButton.BackColor = Color.Transparent;
             aButton.BackgroundImageLayout = ImageLayout.None;
             aButton.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point);
-            aButton.Location = new Point(13, 469);
+            aButton.Location = new Point(3, 467);
             aButton.Name = "aButton";
-            aButton.Size = new Size(500, 113);
+            aButton.Size = new Size(503, 113);
             aButton.TabIndex = 6;
             aButton.Text = "A";
             aButton.UseVisualStyleBackColor = false;
@@ -270,6 +272,7 @@
             ClientSize = new Size(1366, 768);
             Controls.Add(RightPanel);
             Controls.Add(LeftPanel);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "NihonForm";
             Text = "Learn Japanese";
             LeftPanel.ResumeLayout(false);
