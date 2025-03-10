@@ -13,7 +13,7 @@ namespace NihonTest
 {
     public partial class PopupForm : Form
     {
-        public int ReturnedIndex { get; private set; }
+        public int ReturnedIndex { get; private set; } = -1;
         private Dictionary<string, List<Vocabulary>> vocabularyTopics;
         private string currentTopic;
         private int currentVocabularyIndex;
@@ -63,6 +63,7 @@ namespace NihonTest
             learnRadio = _learnRadio;
             testRadio = _testRadio;
 
+            this.FormClosing += PopupForm_FormClosing; // Xử lý khi đóng form
             setAnswerButonOnOff(false);
             UpdateVocabularyDisplay();
         }
@@ -216,9 +217,9 @@ namespace NihonTest
 
         private void runProgressBar()
         {
+            resetProgressBar();
             if (!setTimerCheckbox)
-            {
-                resetProgressBar();
+            {     
                 progressBar.Visible = false;
                 return;
             };
@@ -239,6 +240,7 @@ namespace NihonTest
             if (progressTimer != null)
             {
                 progressTimer.Stop();
+                progressTimer.Dispose();
             }
             progressValue = 0;
             progressBar.Value = 0;
@@ -291,6 +293,15 @@ namespace NihonTest
                 cButton.BackColor = Color.White;
                 dButton.Visible = false;
                 dButton.BackColor = Color.White;
+            }
+        }
+
+        private void PopupForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            resetProgressBar();
+            if (ReturnedIndex == -1) // Nếu chưa cập nhật, giữ giá trị hiện tại
+            {
+                ReturnedIndex = currentVocabularyIndex;
             }
         }
     }

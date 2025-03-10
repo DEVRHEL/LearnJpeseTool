@@ -127,9 +127,9 @@
             // 
             progressBar.BackColor = Color.White;
             progressBar.ForeColor = Color.Lime;
-            progressBar.Location = new Point(3, 435);
+            progressBar.Location = new Point(5, 435);
             progressBar.Name = "progressBar";
-            progressBar.Size = new Size(1017, 10);
+            progressBar.Size = new Size(1015, 10);
             progressBar.TabIndex = 12;
             progressBar.Visible = false;
             // 

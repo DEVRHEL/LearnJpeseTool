@@ -25,7 +25,7 @@ namespace NihonTest
         private int emptyLines = 1;
         private System.Windows.Forms.Timer progressTimer;
         private int progressValue = 0;
-        private Form popupForm;
+        private PopupForm popupForm;
         private int totalTime;
 
         public NihonForm()
@@ -284,10 +284,10 @@ namespace NihonTest
 
         private void runProgressBar()
         {
+            resetProgressBar();
             if (!setTimerCheckbox.Checked)
             {
                 progressBar.Visible = false;
-                resetProgressBar();
                 return;
             };
             progressBar.Visible = true;
@@ -312,6 +312,7 @@ namespace NihonTest
             if (progressTimer != null)
             {
                 progressTimer.Stop();
+                progressTimer.Dispose();
             }
             progressValue = 0;
             progressBar.Value = 0;
@@ -372,10 +373,6 @@ namespace NihonTest
             {
                 ShowPopup();
             }
-            else
-            {
-                ClosePopup();
-            }
         }
 
         private void ShowPopup()
@@ -403,22 +400,22 @@ namespace NihonTest
             int screenX = Screen.PrimaryScreen.WorkingArea.Width - popupForm.Width - 10;
             int screenY = Screen.PrimaryScreen.WorkingArea.Height - popupForm.Height - 10;
             popupForm.Location = new Point(screenX, screenY);
-            popupForm.FormClosing += (s, e) => popupCheckbox.Checked = false; // Khi đóng, bỏ chọn checkbox
+            popupForm.FormClosed += (s, e) =>
+            {
+                // Cập nhật giá trị currentVocabularyIndex từ Popup
+                currentVocabularyIndex = popupForm.ReturnedIndex;
+                // Hủy đối tượng PopupForm
+                popupForm.Dispose();
+                popupForm = null;
+                // Bỏ chọn checkbox và hiện lại RightPanel
+                popupCheckbox.Checked = false;
+                RightPanel.Visible = true;
+                // Cập nhật lại giao diện nếu cần
+                UpdateVocabularyDisplay();
+            };
             popupForm.Show();
 
             RightPanel.Visible = false; // Ẩn RightPanel
-        }
-
-        private void ClosePopup()
-        {
-            if (popupForm != null)
-            {
-                popupForm.Close();
-                popupForm.Dispose();
-                popupForm = null;
-            }
-
-            RightPanel.Visible = true; // Hiện lại RightPanel
         }
 
         private void setTimerCheckbox_CheckedChanged(object sender, EventArgs e)
